@@ -21,7 +21,7 @@ v.015 du 19/01/2020
 Nouveau Design
 
 v.014 du 18/01/2020
-Premire version MacOs Publique
+Premiere version MacOs Publique
 
 v.013 du 17/01/2020
 DŽbugage sous Windows
