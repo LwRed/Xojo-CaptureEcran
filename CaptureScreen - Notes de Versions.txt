@@ -11,6 +11,9 @@ Fonctionnalites :
 
 Historique des versions :
 
+v0.18 du 28/04/2020
+Ecran d'explication au lancement de la capture
+
 v.017 du 19/01/2020
 Clarification du Code - Premiere version GitHub
 
