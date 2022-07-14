@@ -13,4 +13,4 @@ Fonctionnalites :
 
 <img src="ScreenShot.png" width="640">
 
-Si vous aimez mes programme, <a href="https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG"> vous pouvez faire un don PayPal ;)</a>
+Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG"> vous pouvez faire un don PayPal ;)</a>
