@@ -12,3 +12,5 @@ Fonctionnalites :
 - Sauvegarde des options
 
 <img src="ScreenShot.png" width="640">
+
+Si vous aimez mes programmes, https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG
