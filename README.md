@@ -7,5 +7,8 @@ Fonctionnalites :
 - Sauvegarde possible de l'image sur le Bureau ainsi que dans le ClipBoard
 - Incrementation des Sauvegardes automatiques
 - Fonctionne sur Windows et MacOs 64 bits
+- Aide animÈe (GIF)
+- Sauvegarde au format Jpg ou Png
+- Sauvegarde des options
 
 <img src="ScreenShot.png" width="640">
