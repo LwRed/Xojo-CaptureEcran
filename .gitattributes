@@ -1,0 +1,4 @@
+# Xojo (formerly REALbasic and Real Studio) 2020 r1
+
+*.xojo_binary_project linguist-language=xojo
+*.xojo_xml_project linguist-language=xojo
