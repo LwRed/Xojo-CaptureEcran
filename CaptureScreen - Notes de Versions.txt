@@ -11,6 +11,27 @@ Fonctionnalites :
 
 Historique des versions :
 
+v.023 du 14/07/2022
+Correction de bugs sous Windows et MacOs
+
+v0.22 du 11/10/2020
+Gestion de l'échelle d'affichage sous Windows (100%/125%/150%)
+
+v0.21 du 10/10/2020
+Fenêtre d'aide qui s'ouvre au premier démarrage ou par le biais du menu
+
+v0.20 du 05/10/2020
+Remplacement des Icones de menu via Canvas par une vraie Toolbox
+Ajout d'une icône option
+Changement des icônes
+Correction d'un bug lors de l'appui de la touche Echap qui empêchait de voir la fenêtre principale
+Correction d'un bug lié aux FilesTypes sous Windows
+Choix entre sauvegarde Jpg ou Png
+Sauvegarde des Options
+
+v0.19 du 05/09/2020
+Barre de Menu horizontale au lieu de verticale
+
 v0.18 du 28/04/2020
 Ecran d'explication au lancement de la capture
 
@@ -24,10 +45,10 @@ v.015 du 19/01/2020
 Nouveau Design
 
 v.014 du 18/01/2020
-Premi�re version MacOs Publique
+Premiere version MacOs Publique
 
 v.013 du 17/01/2020
-D�bugage sous Windows
+DŽbugage sous Windows
 
 v.012 du 17/01/2020
 Automatisation des sauvegardes (non retenu)
