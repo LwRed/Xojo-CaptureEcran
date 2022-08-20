@@ -18,6 +18,9 @@ Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_but
 
 Historique des versions :
 
+v0.24 du 20/08/2022
+Corection d'un bug sous Windows lié à mise à l'échelle de Windows
+
 v.023 du 14/07/2022
 Correction de bugs sous Windows et MacOs
 
